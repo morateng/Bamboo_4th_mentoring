@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc308296-dab0-4137-b20b-938b484bd370" name="Changes" comment="" />
+    <list default="true" id="fc308296-dab0-4137-b20b-938b484bd370" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ch04_lab02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,14 +36,15 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/morat/AI/bamboo_4th_mento/ch03_prac.py",
+    "last_opened_file_path": "C:/Users/morat/AI/bamboo_4th_mento",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.ch03">
+  <component name="RunManager" selected="Python.bamboo_4th_mento">
     <configuration name="Unnamed (1)" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="bamboo_4th_mento" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -85,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ch03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="bamboo_4th_mento" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="bamboo_4th_mento" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,12 +97,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,13 +137,8 @@
       <item itemvalue="Python.ch03_prac" />
       <item itemvalue="Python.Unnamed (1)" />
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.ch03" />
+      <item itemvalue="Python.bamboo_4th_mento" />
     </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.ch03" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -153,6 +152,8 @@
       <workItem from="1678716551018" duration="311000" />
       <workItem from="1678716877036" duration="11000" />
       <workItem from="1678716903621" duration="830000" />
+      <workItem from="1679116462915" duration="546000" />
+      <workItem from="1679117022416" duration="26000" />
     </task>
     <servers />
   </component>
@@ -172,6 +173,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/bamboo_4th_mento$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1678716687112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/bamboo_4th_mento$ch03.coverage" NAME="ch03 Coverage Results" MODIFIED="1678717562566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bamboo_4th_mento$ch03.coverage" NAME="bamboo_4th_mento Coverage Results" MODIFIED="1679116982599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
   </component>
 </project>
